@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "terminal.integrated.allowChords": false,
+  "workbench.editor.enablePreview": true,
+  "editor.suggestSelection": "first"
+}
